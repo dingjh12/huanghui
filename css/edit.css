@@ -1,0 +1,9 @@
+div.wrapper{
+width:960px;
+margin:auto;
+}
+div.top-nav{
+padding:5px;
+margin:10px 0;
+border-bottom:1px solid #999;
+}

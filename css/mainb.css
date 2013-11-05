@@ -1,0 +1,147 @@
+div.main{
+width:960px;
+margin:auto;
+}
+/*******add-product.php**************/
+form h4{
+font-weight:normal;
+}
+
+/*******show-products.php***********/
+div.thumbnail{
+width:200px;
+height:280px;
+position:relative;
+text-overflow:clip;
+}
+div.thumbnail h4{
+width:200px;
+white-space:nowrap;
+text-overflow:ellipsis;
+overflow:hidden;
+}
+div.thumbnail:hover{
+border:1px solid #999;
+box-shadow:0 0 8px #66f;
+}
+div.thumbnail div.button-position{
+position:absolute;
+bottom:10px;
+}
+
+/*********edit-types.php************/
+div.relative{
+position:relative;
+min-height:500px;
+}
+div#edit-type-left{
+padding:5px;
+background-color:#eee;
+width:200px;
+border:1px solid #aaa;
+	 margin-right:20px;
+}
+a.add_second{
+margin-left:1em;
+}
+a.add_third{
+margin-left:2em;
+}
+
+div#edit-type-panel{
+width:720px;
+border:1px solid #eee;
+position:absolute;
+right:0;
+top:0;
+height:500px;
+}
+div#edit-type-panel:hover{
+border:1px solid #639;
+box-shadow:0 0 8px #999;
+}
+div#edit-tips{
+position:relative;
+top:30%;
+text-align:center;
+padding-left:auto;
+padding-right:auto;
+}
+div.first_level,div.second_level,div.third_level{
+border-bottom:1px solid white;
+}
+div.second_level{
+text-indent:1em;
+}
+div.third_level{
+text-indent:2em;
+}
+
+
+/************hot-keys.php*****************/
+div#keywords{
+width:70%;
+margin:auto;
+}
+div.s-word{
+margin-top:10px;
+line-height:30px;
+box-shadow:1px 1px 8px #444;
+padding-left:10px;
+padding-right:20px;
+}
+input#word{
+margin-top:30px;
+}
+/***********check-messages.php***************/
+div.talk{
+padding:5px;
+margin:auto;
+margin-top:15px;
+width:80%;
+box-shadow:1px 1px 5px #333;
+}
+div.talk p{
+text-indent:2em;
+}
+
+
+/*********site-config.php*******************/
+div.normal{
+border-left:5px solid #066;
+padding-left:10px;
+}
+div.normal h3{
+font-weight:normal;
+}
+/********manage.php************************/
+div.left-main{
+border:1px solid #aaa;
+width:55%;
+float:left;
+padding:10px;
+}
+div.left-main h3,div.left-main h4{
+font-weight:normal;
+}
+div.update-info{
+margin:15px 5px 5px 5px;
+padding:10px;
+border:1px solid #999;
+}
+div.update-info:hover{
+border:1px solid #bbb;
+box-shadow:0 0 8px #333;
+}
+
+
+div.right-panel{
+width:35%;
+float:right;
+border:1px solid #aaa;
+padding:10px;
+}
+div.right-panel h3{
+				font-weight:normal;
+}
+

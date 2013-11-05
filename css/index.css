@@ -1,0 +1,22 @@
+*{
+font-family:"\6977\4F53","\9ED1\4F53","\5FAE\8F6F\96C5\9ED1","Microsoft YaHei","微软雅黑";
+}
+div#outer{
+background-image:url("../ueditor/php/upload/20130814/13764658709705.jpg") no-repeat;
+height:400px;
+position:relative;
+}
+div#text{
+position:absolute;
+right:20px;
+top:90px;
+color:#aaa;
+text-shadow:1px 1px 1px #000 ;
+text-align:right;
+}
+div#text span{
+font-size:18px;
+}
+div#text h1{
+font-weight:normal;
+}
